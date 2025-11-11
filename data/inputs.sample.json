@@ -1,0 +1,24 @@
+[
+  {
+    "city": "London",
+    "country": "United Kingdom",
+    "check_in": "2025-01-01",
+    "check_out": "2025-01-05",
+    "guests": 2,
+    "min_price": 80,
+    "max_price": 250,
+    "amenities": ["Wifi", "Kitchen", "Washer"],
+    "max_results": 120
+  },
+  {
+    "city": "Paris",
+    "country": "France",
+    "check_in": "2025-03-10",
+    "check_out": "2025-03-15",
+    "guests": 3,
+    "min_price": 90,
+    "max_price": 300,
+    "amenities": ["Wifi", "Heating"],
+    "max_results": 80
+  }
+]
