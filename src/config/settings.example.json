@@ -1,0 +1,11 @@
+{
+  "input_listings_path": "../data/listings.sample.json",
+  "output_dir": "../data/outputs",
+  "export_formats": ["json", "csv", "xml", "rss", "html"],
+  "log_level": "INFO",
+  "city": "London",
+  "check_in": "2025-01-01",
+  "check_out": "2025-01-05",
+  "guests": 2,
+  "max_results": 240
+}
