@@ -1,0 +1,83 @@
+[
+  {
+    "id": "14926879",
+    "coordinates": {
+      "latitude": 51.5101,
+      "longitude": -0.1949
+    },
+    "title": "Terrific Notting Hill Studio - Apartments for Rent in London, England, United Kingdom - Airbnb",
+    "description": "Cozy studio in Notting Hill, perfect for solo travelers.",
+    "url": "https://www.airbnb.com/rooms/14926879",
+    "roomType": "Entire home/apt",
+    "isSuperHost": false,
+    "personCapacity": 1,
+    "rating": {
+      "accuracy": 4.76,
+      "cleanliness": 4.77,
+      "communication": 4.84,
+      "location": 4.95,
+      "value": 4.58,
+      "reviewsCount": 371
+    },
+    "host": {
+      "name": "Max And Billie",
+      "profileImage": "https://a0.muscache.com/im/pictures/user/ddc3b1ab-e2d5-4953-8295-bbefa7a5e808.jpg",
+      "highlights": ["8 years hosting"]
+    },
+    "price": {
+      "label": "$107 per night",
+      "totalBeforeTaxes": "$302"
+    },
+    "amenities": ["Wifi", "Heating", "Washer", "TV with cable", "Kitchen"],
+    "locationDescriptions": [
+      {
+        "title": "Neighborhood highlights",
+        "content": "Located near Notting Hill, close to parks, bars, and restaurants."
+      }
+    ]
+  },
+  {
+    "id": "22334455",
+    "coordinates": {
+      "latitude": 48.8566,
+      "longitude": 2.3522
+    },
+    "title": "Charming flat near Le Marais",
+    "description": "Stylish one-bedroom flat in central Paris, ideal for couples.",
+    "url": "https://www.airbnb.com/rooms/22334455",
+    "roomType": "Entire rental unit",
+    "isSuperHost": true,
+    "personCapacity": 2,
+    "rating": {
+      "accuracy": 4.9,
+      "cleanliness": 4.85,
+      "communication": 4.95,
+      "location": 4.98,
+      "value": 4.7,
+      "reviewsCount": 215
+    },
+    "host": {
+      "name": "Claire",
+      "profileImage": "https://a0.muscache.com/im/pictures/user/placeholder.jpg",
+      "highlights": ["5 years hosting", "Superhost"]
+    },
+    "price": {
+      "label": "€135 per night",
+      "totalBeforeTaxes": "€540"
+    },
+    "amenities": [
+      "Wifi",
+      "Air conditioning",
+      "Kitchen",
+      "Washer",
+      "Dryer",
+      "Parking"
+    ],
+    "locationDescriptions": [
+      {
+        "title": "Central & Connected",
+        "content": "Minutes away from Le Marais, museums, and metro stations."
+      }
+    ]
+  }
+]
